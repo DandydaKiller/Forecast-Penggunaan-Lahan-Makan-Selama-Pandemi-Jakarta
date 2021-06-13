@@ -1,0 +1,2 @@
+# Forecast-Penggunaan-Lahan-Makan-Selama-Pandemi-Jakarta
+Selama pandemi Covid-19 penggunaan lahan pemakaman akibat terpapar Covid-19 semakin dan terus meningkat, sedangkan baik jenazah maupun pemakaman akibat terpapar Covid-19 membutuhkan perlakuan khusus agar virus tidak semakin menular, dengan lahan pemakaman yang sempit maka akan membahayakan petugas maka prediksi penggunaan lahan sangat di perlukan untuk perkiraan pembukaan lahan baru
